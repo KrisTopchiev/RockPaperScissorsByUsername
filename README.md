@@ -1,2 +1,2 @@
-# RockPaperScissorsByUsername
+# RockPaperScissorsKrisTopchiev
 Rock paper scissors game
